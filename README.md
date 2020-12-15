@@ -4,6 +4,12 @@
   
 ![](https://visitor-badge.glitch.me/badge?page_id=songk1992.songk1992)
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <!-- Section -->
 <!--
@@ -49,7 +55,7 @@ Here are some ideas to get you started:
 
 <br />
 
-My favourite quotes are    
+<b> My favourite quotes are </b>   
   
 "Keep Calm and Carry On"  
   
