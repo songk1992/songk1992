@@ -38,26 +38,27 @@ Here are some ideas to get you started:
 </a>
 -->
 
+<!-- Section :  Visitor Count-->
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=songk1992.songk1992)
 
 
 Hi there, my name is [Song Kim](https://www.naver.com/about),
 
-I have been doing
+<img align="right" alt="GIF" src="https://github.com/songk1992/songk1992/blob/main/code.gif?raw=true" />
 
-  <img align="right" alt="GIF" src="https://github.com/songk1992/songk1992/blob/master/code.gif?raw=true" width="500" height="320" />
+I have graduated from
+
+Kelly College (UK)
+
+Seoul National University of Science and Technology
 
 
--->
+<!-- Section :  My GitHub Stats-->
 
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=songk1992&show_icons=true&theme=gotham" alt="songk1992" />
 
-
-
-
-
-<!- Code from https://github.com/abhisheknaiidu/abhisheknaiidu Thank you abhisheknaiidu  -->
+<!-- Code from https://github.com/abhisheknaiidu/abhisheknaiidu Thank you abhisheknaiidu  -->
 
