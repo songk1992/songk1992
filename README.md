@@ -5,8 +5,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=songk1992.songk1992)
 
 <br />
-<br />
-<br />
 
 <!-- Section -->
 <!--
