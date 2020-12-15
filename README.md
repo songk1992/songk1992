@@ -65,7 +65,7 @@ not in never falling,
 but in rising every time we fall."   
   
 “Everything should be  
-ade as simple as possible,  
+made as simple as possible,  
 but no simpler.”  
   
 <br />
