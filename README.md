@@ -1,8 +1,12 @@
+<!-- Section :  Greeting + Visitor Count-->
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  
+![](https://visitor-badge.glitch.me/badge?page_id=songk1992.songk1992)
 
 
 
-<!-- Section 1-->
+<!-- Section -->
 <!--
 **songk1992/songk1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -38,21 +42,58 @@ Here are some ideas to get you started:
 </a>
 -->
 
-<!-- Section :  Visitor Count-->
 
-![](https://visitor-badge.glitch.me/badge?page_id=songk1992.songk1992)
+<!-- Section -->
 
+
+<img align="left" alt="GIF" src="https://github.com/songk1992/songk1992/blob/main/atom.gif?raw=true" width="500" height="320" />
+
+My favourite quotes are    
+  
+"Keep Calm and Carry On"  
+  
+"יְהוָה רֹעִי, לֹא אֶחְסָר."  
+  
+"The greatest glory in living lies   
+not in never falling,   
+but in rising every time we fall."  
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<!-- Section -->
+
+<img align="right" alt="GIF" src="https://github.com/songk1992/songk1992/blob/main/code.gif?raw=true" width="500" height="320" />
 
 Hi there, my name is [Song Kim](https://www.naver.com/about),
 
-<img align="right" alt="GIF" src="https://github.com/songk1992/songk1992/blob/main/code.gif?raw=true" />
+I have studied in
 
-I have graduated from
+Kelly College (GB)
 
-Kelly College (UK)
+Seoul National University of Science and Technology  
+(Bsc on computer science)
 
-Seoul National University of Science and Technology
+Bit Academy
+(JX387)
 
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <!-- Section :  My GitHub Stats-->
 
