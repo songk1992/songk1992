@@ -5,7 +5,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=songk1992.songk1992)
 
 
-
 <!-- Section -->
 <!--
 **songk1992/songk1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,6 +47,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="GIF" src="https://github.com/songk1992/songk1992/blob/main/atom.gif?raw=true" width="500" height="320" />
 
+<br />
+
 My favourite quotes are    
   
 "Keep Calm and Carry On"  
@@ -56,11 +57,12 @@ My favourite quotes are
   
 "The greatest glory in living lies   
 not in never falling,   
-but in rising every time we fall."  
-
-<br />
-<br />
-<br />
+but in rising every time we fall."   
+  
+“Everything should be  
+ade as simple as possible,  
+but no simpler.”  
+  
 <br />
 <br />
 <br />
@@ -71,6 +73,8 @@ but in rising every time we fall."
 <!-- Section -->
 
 <img align="right" alt="GIF" src="https://github.com/songk1992/songk1992/blob/main/code.gif?raw=true" width="500" height="320" />
+
+<br />
 
 Hi there, my name is [Song Kim](https://www.naver.com/about),
 
@@ -85,9 +89,7 @@ Bit Academy
 (JX387)
 
 
-<br />
-<br />
-<br />
+
 <br />
 <br />
 <br />
@@ -97,7 +99,7 @@ Bit Academy
 
 <!-- Section :  My GitHub Stats-->
 
-📈 My GitHub Stats
+<p align="center"> 📈 My GitHub Stats </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=songk1992&show_icons=true&theme=gotham" alt="songk1992" />
 
