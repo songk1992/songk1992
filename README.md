@@ -4,13 +4,6 @@
   
 ![](https://visitor-badge.glitch.me/badge?page_id=songk1992.songk1992)
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 <!-- Section -->
 <!--
 **songk1992/songk1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,11 +21,11 @@ Here are some ideas to get you started:
 
 <!-- Social Media -->
 
+<a href="https://www.acmicpc.net/user/zuppiy">
+  <img align="left" alt="Song's baekjoon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
+</a>
 
 <!--
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -47,6 +40,8 @@ Here are some ideas to get you started:
 </a>
 -->
 
+
+<br />
 
 <!-- Section -->
 
