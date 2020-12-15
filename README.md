@@ -27,20 +27,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Song's baekjoon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
 </a>
 
-<!--
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
--->
 
 
 <br />
@@ -107,6 +93,4 @@ Bit Academy
 <p align="center"> 📈 My GitHub Stats </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=songk1992&show_icons=true&theme=gotham" alt="songk1992" />
-
-<!-- Code from https://github.com/abhisheknaiidu/abhisheknaiidu Thank you abhisheknaiidu  -->
 
