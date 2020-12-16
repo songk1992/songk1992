@@ -67,17 +67,18 @@ but no simpler.”
 
 <br />
 
-Hi there, my name is [Song Kim](https://www.naver.com/about),
+Hi there, my name is [Song Kim](https://www.nxver.com/about),
 
 I have studied in
 
-Kelly College (GB)
+[Kelly College](https://en.wikipedia.org/wiki/Kelly_College) (GB) 
 
-Seoul National University of Science and Technology  
+[Seoul National University of Science and Technology](http://www.seoultech.ac.kr)
 (Bsc on computer science)
 
 Bit Academy
-(JX387)
+[(JX387)](http://www.bitacademy.com/Course/Expert/Course_Expert_introduce.asp)
+
 
 
 
