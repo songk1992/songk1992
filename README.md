@@ -94,6 +94,7 @@ Bit Academy
   
 [imoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/ "imoji cheat sheet")
 
+[json validator](https://tools.learningcontainer.com/json-validator/ "json validator")
 
 <br />
 <br />
