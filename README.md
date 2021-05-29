@@ -97,9 +97,24 @@ Bit Academy
 
 [json validator](https://tools.learningcontainer.com/json-validator/ "json validator")
 
+
+
+
+<br />
+
+# layout tool
+
+[yoga layout opensource layout tool](https://yogalayout.com// "https://yogalayout.com/")
+
 [dashed-border-generator](https://kovart.github.io/dashed-border-generator/ "dashed-border-generator")
 
+<br />
+
+# book
+
 [eloquentjavascript 책](https://eloquentjavascript.net/ "무료자바스크립트 서적")
+
+
 
 <br />
 <br />
