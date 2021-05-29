@@ -110,9 +110,11 @@ Bit Academy
 
 <br />
 
-# book
+# book + docs + guide
 
 [eloquentjavascript 책](https://eloquentjavascript.net/ "무료자바스크립트 서적")
+
+[react 공식문서](https://reactnative.dev/docs/getting-started "react 공식문서")
 
 
 
