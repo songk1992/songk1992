@@ -36,6 +36,27 @@ Here are some ideas to get you started:
 
 <!-- Section -->
 
+<br />
+<br />
+<br />
+
+# my blog
+
+<p align="center">
+  <a href="https://codemasterkimc.tistory.com/">
+  <img alt="GIF" src="https://github.com/songk1992/songk1992/blob/main/myblog.gif?raw=true" width="500" height="320" />
+  </a>
+</p>
+
+
+
+
+
+<br />
+<br />
+<br />
+
+# profile
 
 <img align="left" alt="GIF" src="https://github.com/songk1992/songk1992/blob/main/atom.gif?raw=true" width="500" height="320" />
 
