@@ -157,9 +157,7 @@ Bit Academy
 <!-- Section :  My GitHub Stats-->
 
 <p align="center"> 📈 My GitHub Stats </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=songk1992" alt="songk1992" /> </p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songk1992" alt="songk1992" /> </p>
 
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=songk1992&show_icons=true&theme=gotham" alt="songk1992" /> </p>
-
