@@ -142,6 +142,16 @@ Bit Academy
 
 [dashed-border-generator](https://kovart.github.io/dashed-border-generator/ "dashed-border-generator")
 
+
+
+<br />
+
+# JS template library
+
+[handlebarsjs](https://handlebarsjs.com/ "https://handlebarsjs.com/")
+
+
+
 <br />
 
 # book + docs + guide
