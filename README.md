@@ -125,7 +125,8 @@ Bit Academy
 
 
 # useful websites
-  
+[cdnjs](https://cdnjs.com/ "https://cdnjs.com/")
+
 [imoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/ "imoji cheat sheet")
 
 [json validator](https://tools.learningcontainer.com/json-validator/ "json validator")
