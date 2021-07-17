@@ -131,6 +131,7 @@ Bit Academy
 
 [json validator](https://tools.learningcontainer.com/json-validator/ "json validator")
 
+[git ignore template](https://github.com/github/gitignore "git ignore template")
 
 
 
