@@ -165,9 +165,9 @@ Bit Academy
 
 # TS etc
 
-[typescript playground](https://www.typescriptlang.org/play "https://www.typescriptlang.org/play")
+[타입스크립트 자바스크립트 변환 놀이터 TS Playground](https://www.typescriptlang.org/play "https://www.typescriptlang.org/play")
 
-
+[타입스크립트 추상트리 뷰어 TS AST](https://ts-ast-viewer.com/# "https://ts-ast-viewer.com/#")
 
 
 <br />
