@@ -161,6 +161,14 @@ Bit Academy
 
 [react 공식문서](https://reactnative.dev/docs/getting-started "react 공식문서")
 
+<br />
+
+# TS etc
+
+[typescript playground](https://www.typescriptlang.org/play "https://www.typescriptlang.org/play")
+
+
+
 
 <br />
 <br />
