@@ -171,8 +171,23 @@ Bit Academy
 
 [타입스크립트 추상트리 뷰어 TS AST](https://ts-ast-viewer.com/# "https://ts-ast-viewer.com/#")
 
+<br />
+
+# etc
+
+[Summary of 'Clean code' by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29 "깨끗 깨끗")
+
+[Clean code Refactoring Guru](https://refactoring.guru/refactoring/what-is-refactoring "깨끗 깨끗")
+
+[300년차 개발자의 좋은 코드 5계명 (Clean Code)](https://codemasterkimc.tistory.com/50 "깨끗 깨끗")
+
+[클린코드란 무엇인가? 삼성SDS](https://www.samsungsds.com/kr/story/cleancode-0823.html "깨끗 깨끗")
+
 
 <br />
+
+
+
 <br />
 <br />
 
