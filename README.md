@@ -173,6 +173,12 @@ Bit Academy
 
 <br />
 
+# React
+
+[Chrome extenstion React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en "크롬에서 쓰는 리액트 개발자 모드")
+
+<br />
+
 # etc
 
 [Summary of 'Clean code' by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29 "깨끗 깨끗")
