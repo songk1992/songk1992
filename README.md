@@ -163,6 +163,12 @@ Bit Academy
 
 [react 공식문서](https://reactnative.dev/docs/getting-started "react 공식문서")
 
+[jest 공식문서](https://jestjs.io/docs/getting-started "jest 공식문서")
+
+[typescript 공식문서](https://www.typescriptlang.org/docs/ "ts 공식문서")
+
+
+
 <br />
 
 # TS etc
