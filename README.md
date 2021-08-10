@@ -187,8 +187,9 @@ Bit Academy
 
 [A Complete Guide to useEffect(한글) 안도형(Dohyung Ahn)님의 블로그](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko "use effect 완벽가이드")
 
-[리액트 아이콘 라이브러리](https://react-icons.github.io/react-icons "react icons")
+[React Icons - include popular icons in your React projects easily with react-icons](https://react-icons.github.io/react-icons "react icons")
 
+[iconmonstr - free, monstrously big and continuously growing source of simple icons run by one creator.](https://iconmonstr.com/ "react icons")
 
 
 <br />
