@@ -140,6 +140,9 @@ Bit Academy
 
 [Text Art Generator](http://patorjk.com/software/taag/ "텍스트 아트 제작 툴")
 
+[JPA Modelling](https://start.jhipster.tech/jdl-studio/ "JPA 모델링 사이트")
+
+
 <br />
 
 # layout tool
