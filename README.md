@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-# my blog
+# [my blog(click)](https://codemasterkimc.tistory.com/)
 
 <p align="center">
   <a href="https://codemasterkimc.tistory.com/">
