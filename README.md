@@ -142,6 +142,24 @@ Bit Academy
 
 [JPA Modelling](https://start.jhipster.tech/jdl-studio/ "JPA 모델링 사이트")
 
+<br />
+
+# Java Coding Convention
+
+[캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/ "자바")
+
+# Javascript Coding Convention
+
+[Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html "js")
+
+[W3School JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp "js")
+
+[MDN JavaScript Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript "js")
+
+# CPP Coding Convention
+
+[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html "C++")
+
 
 <br />
 
