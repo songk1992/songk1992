@@ -160,6 +160,9 @@ Bit Academy
 
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html "C++")
 
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines "C++")
+
+
 
 <br />
 
