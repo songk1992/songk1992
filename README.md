@@ -142,6 +142,9 @@ Bit Academy
 
 [JPA Modelling](https://start.jhipster.tech/jdl-studio/ "JPA 모델링 사이트")
 
+[css loading template](https://cssloaders.github.io/ "CSS 로딩맛집")
+
+
 <br />
 
 # Java Coding Convention
