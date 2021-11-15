@@ -151,6 +151,8 @@ Bit Academy
 
 [캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/ "자바")
 
+[SEI CERT Oracle Coding Standard for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java "자바")
+
 # Javascript Coding Convention
 
 [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html "js")
@@ -165,7 +167,7 @@ Bit Academy
 
 [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines "C++")
 
-
+[SEI CERT C++ Coding Standard](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682 "C++")
 
 <br />
 
