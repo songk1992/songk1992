@@ -232,6 +232,28 @@ Bit Academy
 [iconmonstr - free, monstrously big and continuously growing source of simple icons run by one creator.](https://iconmonstr.com/ "react icons")
 
 
+# React (UI Component Libraries)
+
+[React Bootstrap / The most popular front-end framework Rebuilt for React](https://react-bootstrap.github.io/ "UI Component Library")
+
+[Ant Design / The world's second most popular React UI](https://ant.design/ "UI Component Library")
+
+[Chakra UI / simple, modular and accessible component library](https://chakra-ui.com/ "UI Component Library")
+
+[Blueprint / React-based UI toolkit for the web.](https://blueprintjs.com/ "UI Component Library")
+
+[REBASS / REACT PRIMITIVE UI COMPONENTS BUILT WITH STYLED SYSTEM](https://rebassjs.org/ "UI Component Library")
+
+[Reactstrap / a React component library for Bootstrap](https://reactstrap.github.io/?path=/story/home-installation--page "UI Component Library")
+
+[mui](https://mui.com/ "UI Component Library")
+
+[Semantic UI React / The official Semantic-UI-React integration.](https://react.semantic-ui.com/ "UI Component Library")
+
+[react desktop](https://github.com/gabrielbull/react-desktop "UI Component Library")
+
+[react motion](https://github.com/chenglou/react-motion "UI Component Library")
+
 <br />
 
 # etc
