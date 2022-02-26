@@ -195,6 +195,10 @@ Bit Academy
 
 [ui-gradient-generator](https://uigradients.com/#MoonlitAsteroid "ui-gradient-generator")
 
+[Easing Gradients](https://larsenwork.com/easing-gradients/ "ui-gradient-generator")
+
+[color gradient generator](https://mybrandnewlogo.com/ko/color-gradient-generator "ui-gradient-generator")
+
 
 
 <br />
