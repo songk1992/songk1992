@@ -144,6 +144,9 @@ Bit Academy
 
 [css loading template](https://cssloaders.github.io/ "CSS 로딩맛집")
 
+[SVGOMG svg compression](https://jakearchibald.github.io/svgomg/ "svg compression")
+
+
 <br />
 
 # Spring
