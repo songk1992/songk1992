@@ -150,6 +150,8 @@ Bit Academy
 
 [SVGOMG svg compression](https://jakearchibald.github.io/svgomg/ "svg compression")
 
+[icomoon iconography and icon management tool](https://icomoon.io/ " iconography and icon management tool")
+
 
 <br />
 
