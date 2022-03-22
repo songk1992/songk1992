@@ -152,6 +152,7 @@ Bit Academy
 
 [icomoon iconography and icon management tool](https://icomoon.io/ " iconography and icon management tool")
 
+[svg shape shifting tool](https://shapeshifter.design/ "svg shape shifting tool")
 
 <br />
 
