@@ -302,6 +302,11 @@ Bit Academy
 
 [CSS Naming BEM approach](http://getbem.com/naming/ "CSS BEM방법으로 이름짓기")
 
+[ML OPS Korea](https://ko-kr.facebook.com/groups/MLOpsKR/ "ML OPS Korea")
+
+[Korea Azure User Group](https://ko-kr.facebook.com/groups/krazure/ "Korea Azure User Group")
+
+[100 Azure Blogs](https://blog.feedspot.com/microsoft_azure_blogs/ "Azure blogs")
 
 <br />
 
