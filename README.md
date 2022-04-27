@@ -308,6 +308,14 @@ Bit Academy
 
 [100 Azure Blogs](https://blog.feedspot.com/microsoft_azure_blogs/ "Azure blogs")
 
+# 3D
+
+
+[3D Content Guidelines for Microsoft](https://support.microsoft.com/en-us/office/3d-content-guidelines-for-microsoft-03a7b493-d549-4f1a-9735-f2457adf6261 "Microsoft")
+
+[Meshroom free, open-source 3D Reconstruction Software](https://alicevision.org/#meshroom "meshroom")
+
+
 <br />
 
 
