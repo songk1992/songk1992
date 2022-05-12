@@ -154,6 +154,9 @@ Bit Academy
 
 [svg shape shifting tool](https://shapeshifter.design/ "svg shape shifting tool")
 
+[js performance testing jsbenchme](https://jsbench.me/ "js performance testing")
+
+
 
 # Micro services
 
