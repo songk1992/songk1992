@@ -152,6 +152,8 @@ Bit Academy
 
 [icomoon iconography and icon management tool](https://icomoon.io/ " iconography and icon management tool")
 
+[react-icon](https://react-icons.github.io/react-icons/ "icons")
+
 [svg shape shifting tool](https://shapeshifter.design/ "svg shape shifting tool")
 
 [js performance testing jsbenchme](https://jsbench.me/ "js performance testing")
