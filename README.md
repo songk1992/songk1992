@@ -313,6 +313,8 @@ Bit Academy
 
 [100 Azure Blogs](https://blog.feedspot.com/microsoft_azure_blogs/ "Azure blogs")
 
+[image compression squoosh](https://squoosh.app/ "image compressions")
+
 # 3D
 
 
