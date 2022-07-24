@@ -132,6 +132,10 @@ Bit Academy
 
 
 # useful websites
+
+[frontend checklist](https://github.com/kesuskim/Front-End-Checklist "frontend checklist")
+
+
 [cdnjs](https://cdnjs.com/ "https://cdnjs.com/")
 
 [imoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/ "imoji cheat sheet")
