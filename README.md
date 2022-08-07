@@ -326,7 +326,9 @@ Bit Academy
 
 [Meshroom free, open-source 3D Reconstruction Software](https://alicevision.org/#meshroom "meshroom")
 
+[3d models - turbo squid](https://www.turbosquid.com/ "3d")
 
+[Animate 3D characters -mixamo](https://www.mixamo.com/ "3d")
 <br />
 
 
