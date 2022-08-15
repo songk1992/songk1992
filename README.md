@@ -319,6 +319,8 @@ Bit Academy
 
 [image compression squoosh](https://squoosh.app/ "image compressions")
 
+[gitignore.io](https://gitignore.io/ "gitignore")
+
 # 3D
 
 
