@@ -216,6 +216,19 @@ Bit Academy
 
 [Kotlin Arrow Library](https://arrow-kt.io/docs/core/ "ARROW")
 
+# Android tutorials
+
+[tutorialspoint Android](https://www.tutorialspoint.com/android "")
+
+[tutorialkart Android](https://www.tutorialkart.com/kotlin-android-tutorial/ "")
+
+<br />
+
+# Android AR
+
+[Google ARCore](https://developers.google.com/ar/develop "")
+
+<br />
 
 # layout tool
 
