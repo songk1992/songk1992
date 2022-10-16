@@ -355,6 +355,8 @@ Bit Academy
 
 [react-three-fiber](https://github.com/pmndrs/react-three-fiber "3d")
 
+[poly pizza 3d assets](https://poly.pizza/ "3d")
+
 <br />
 
 
