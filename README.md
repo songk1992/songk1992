@@ -350,6 +350,11 @@ Bit Academy
 [3d models - turbo squid](https://www.turbosquid.com/ "3d")
 
 [Animate 3D characters -mixamo](https://www.mixamo.com/ "3d")
+
+[threejs docs](https://threejs.org/docs/ "3d")
+
+[react-three-fiber](https://github.com/pmndrs/react-three-fiber "3d")
+
 <br />
 
 
