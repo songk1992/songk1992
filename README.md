@@ -163,6 +163,12 @@ Bit Academy
 [js performance testing jsbenchme](https://jsbench.me/ "js performance testing")
 
 
+# Open Source
+
+[appwrite end-to-end backend server](https://github.com/appwrite/appwrite "features of Firebase using enterprise-grade open source tools.")
+
+[supabase end-to-end backend server]([https://github.com/appwrite/appwrite](https://github.com/supabase/supabase) "features of Firebase using enterprise-grade open source tools.")
+
 
 # Micro services
 
