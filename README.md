@@ -376,7 +376,7 @@ Bit Academy
 
 # Linux
 
-[Linux Rank (distrowatch)]([https://poly.pizza/](https://distrowatch.com/) "distrowatch")
+[Linux Rank (distrowatch)](https://distrowatch.com/ "distrowatch")
 
 # DB
 
