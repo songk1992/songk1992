@@ -162,6 +162,8 @@ Bit Academy
 
 [js performance testing jsbenchme](https://jsbench.me/ "js performance testing")
 
+[favicon generator](https://favicon.io/favicon-generator/ "favicon generator")
+
 
 # Open Source
 
