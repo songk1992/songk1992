@@ -311,6 +311,17 @@ Bit Academy
 
 
 
+<br />
+
+# React Chart
+
+[D3-React-Component](https://www.npmjs.com/package/d3-react-component "D3-React-Component")
+
+[react-chartjs-2](https://www.npmjs.com/package/react-chartjs-2 "react-chartjs-2")
+
+[react-google-charts](https://www.npmjs.com/package/react-google-charts "react-google-charts")
+
+
 # React (UI Component Libraries)
 
 [React Bootstrap / The most popular front-end framework Rebuilt for React](https://react-bootstrap.github.io/ "UI Component Library")
