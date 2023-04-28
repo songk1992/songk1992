@@ -349,8 +349,9 @@ Bit Academy
 # Tailwind Css
 [Tailwind Cheatsheet](https://tailwindcomponents.com/cheatsheet/ "Tailwind Cheatsheet")
 
+[Tailwind Flow Bite](https://flowbite.com/docs/getting-started/react/ "Flow Bite")
 
-
+<br />
 
 # etc
 
