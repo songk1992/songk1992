@@ -351,6 +351,9 @@ Bit Academy
 
 [Tailwind Flow Bite](https://flowbite.com/docs/getting-started/react/ "Flow Bite")
 
+[Material Tailwind](https://github.com/creativetimofficial/material-tailwind?ref=material-tailwind "material-tailwind")
+
+
 <br />
 
 # etc
