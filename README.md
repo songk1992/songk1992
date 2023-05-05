@@ -356,6 +356,9 @@ Bit Academy
 
 [Material Tailwind](https://github.com/creativetimofficial/material-tailwind?ref=material-tailwind "material-tailwind")
 
+[Tailwind Components](https://tailwindcomponents.com/ "https://tailwindcomponents.com/")
+
+
 
 <br />
 
