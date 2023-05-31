@@ -358,6 +358,7 @@ Bit Academy
 
 [Tailwind Components](https://tailwindcomponents.com/ "https://tailwindcomponents.com/")
 
+[Tailwind Gradient BG](https://hypercolor.dev/ "https://hypercolor.dev/")
 
 
 <br />
