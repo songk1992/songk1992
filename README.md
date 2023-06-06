@@ -410,9 +410,15 @@ Bit Academy
 
 # DB
 
-[DB Rank (DB Engines](https://db-engines.com/en/ "db-engines")
+[DB Rank (DB Engines)](https://db-engines.com/en/ "db-engines")
 
 <br />
+
+# SEO
+
+[site map generation (site map)](https://www.xml-sitemaps.com/ "site map")
+
+
 
 
 
