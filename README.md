@@ -418,8 +418,9 @@ Bit Academy
 
 [site map generation (site map)](https://www.xml-sitemaps.com/ "site map")
 
+[SEO Check Seobility](https://www.seobility.net/en/seocheck/ "SEO Check Seobility")
 
-
+[SEO Check Naver](https://searchadvisor.naver.com/diagnose "SEO Check Naver")
 
 
 <br />
