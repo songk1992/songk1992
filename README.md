@@ -428,6 +428,8 @@ Bit Academy
 
 [실거래가 매매 가격지도](https://www.disco.re/ "disco")
 
+# QR CODE
+[qrbtf qr 코드 생성기 (중국사이트)](https://qrbtf.com/ "QR 코드")
 
 
 
