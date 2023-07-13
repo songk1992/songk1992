@@ -360,6 +360,8 @@ Bit Academy
 
 [Tailwind Gradient BG](https://hypercolor.dev/ "https://hypercolor.dev/")
 
+# Golang
+[Go Packages](https://pkg.go.dev/ "Go Packages")
 
 <br />
 
