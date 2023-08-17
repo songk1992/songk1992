@@ -231,6 +231,12 @@ Bit Academy
 
 [Google API Design Guide](https://cloud.google.com/apis/design "API")
 
+# HTML ETC
+
+[HTML TAG SPEC](https://html.spec.whatwg.org/multipage "HTML TAG")
+
+
+
 <br />
 
 
