@@ -371,7 +371,20 @@ Bit Academy
 
 <br />
 
+# image editing
+
+[image compression squoosh](https://squoosh.app/ "image compressions")
+
+[remove bg](https://www.remove.bg/ "back ground image remover")
+
+
+
+<br />
+
 # etc
+
+[readme editor](https://readme.so/editor "readme editor")
+
 
 [Summary of 'Clean code' by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29 "깨끗 깨끗")
 
@@ -391,7 +404,7 @@ Bit Academy
 
 [100 Azure Blogs](https://blog.feedspot.com/microsoft_azure_blogs/ "Azure blogs")
 
-[image compression squoosh](https://squoosh.app/ "image compressions")
+
 
 [gitignore.io](https://gitignore.io/ "gitignore")
 
