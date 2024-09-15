@@ -1,134 +1,75 @@
-<!-- Section :  Greeting + Visitor Count-->
+<!-- Greeting and Visitor Count -->
+### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  
 ![](https://visitor-badge.glitch.me/badge?page_id=songk1992.songk1992)
 
-
 <br />
-
-<!-- Section -->
-<!--
-**songk1992/songk1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <!-- Social Media -->
-
 <a href="https://www.acmicpc.net/user/zuppiy">
-  <img align="left" alt="Song's baekjoon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
+  <img align="left" alt="Baekjoon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
 </a>
 
-<br />
-<br />
-<br />
+<br /><br /><br />
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zuppiy)](https://solved.ac/zuppiy)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zuppiy)](https://solved.ac/zuppiy)
 
+<br /><br /><br />
 
-<br />
-
-<!-- Section -->
-
-<br />
-<br />
-<br />
-
-# I like Programming(click to see the web site)
+# I Love Programming
 
 <p align="center">
   <a href="http://profile.nxver.com/">
-  <img alt="GIF" src="https://github.com/songk1992/songk1992/blob/main/whoami.gif?raw=true" width="500" height="320" />
+    <img alt="Who Am I" src="https://github.com/songk1992/songk1992/blob/main/whoami.gif?raw=true" width="500" height="320" />
   </a>
 </p>
 
-<br />
-<br />
-<br />
+<br /><br /><br />
 
-# [my blog(click)](https://codemasterkimc.tistory.com/)
+# [My Blog](https://codemasterkimc.tistory.com/)
 
 <p align="center">
   <a href="https://codemasterkimc.tistory.com/">
-  <img alt="GIF" src="https://github.com/songk1992/songk1992/blob/main/codemasterkimc.gif?raw=true" width="500" />
+    <img alt="Blog Banner" src="https://github.com/songk1992/songk1992/blob/main/codemasterkimc.gif?raw=true" width="500" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://codemasterkimc.tistory.com/">
-  <img alt="GIF" src="https://github.com/songk1992/songk1992/blob/main/myblog.gif?raw=true" width="500" height="320" />
+    <img alt="Blog Post GIF" src="https://github.com/songk1992/songk1992/blob/main/myblog.gif?raw=true" width="500" height="320" />
   </a>
 </p>
 
+<br /><br /><br />
 
+# Profile
 
-<br />
-<br />
-<br />
-
-# profile
-
-<img align="left" alt="GIF" src="https://github.com/songk1992/songk1992/blob/main/atom.gif?raw=true" width="500" height="320" />
+<img align="left" alt="Programming GIF" src="https://github.com/songk1992/songk1992/blob/main/atom.gif?raw=true" width="500" height="320" />
 
 <br />
 
-<b> My favourite quotes are </b>   
-  
-"Keep Calm and Carry On"  
-  
-"יְהוָה רֹעִי, לֹא אֶחְסָר."  
-  
-"The greatest glory in living lies   
-not in never falling,   
-but in rising every time we fall."   
-  
-“Everything should be  
-made as simple as possible,  
-but no simpler.”  
-  
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<b>Favorite Quotes:</b>
 
-<!-- Section -->
+- "Keep Calm and Carry On"
+- "יְהוָה רֹעִי, לֹא אֶחְסָר."
+- "The greatest glory in living lies not in never falling, but in rising every time we fall."
+- "Everything should be made as simple as possible, but no simpler."
 
-<img align="right" alt="GIF" src="https://github.com/songk1992/songk1992/blob/main/code.gif?raw=true" width="500" height="320" />
+<br /><br /><br /><br /><br /><br />
+
+<img align="right" alt="Coding GIF" src="https://github.com/songk1992/songk1992/blob/main/code.gif?raw=true" width="500" height="320" />
 
 <br />
 
-Hi there, my name is [Song Kim](https://www.nxver.com/about),
+Hi, I'm [Song Kim](https://www.nxver.com/about)!
 
-I have studied in
+### Education:
+- [Kelly College](https://en.wikipedia.org/wiki/Kelly_College), UK
+- [Seoul National University of Science and Technology](http://www.seoultech.ac.kr) (BSc in Computer Science)
+- Bit Academy [(JX387)](http://www.bitacademy.com/Course/Expert/Course_Expert_introduce.asp)
 
-[Kelly College](https://en.wikipedia.org/wiki/Kelly_College) (GB) 
+<br /><br /><br /><br /><br /><br />
 
-[Seoul National University of Science and Technology](http://www.seoultech.ac.kr)
-(Bsc on computer science)
-
-Bit Academy
-[(JX387)](http://www.bitacademy.com/Course/Expert/Course_Expert_introduce.asp)
-
-
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 
 # useful websites
