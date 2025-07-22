@@ -76,6 +76,7 @@ Hi, I'm [Song Kim](https://www.nxver.com/about)!
 
 [frontend checklist](https://github.com/kesuskim/Front-End-Checklist "frontend checklist")
 
+[frontend animate](https://animejs.com/ "animejs")
 
 [cdnjs](https://cdnjs.com/ "https://cdnjs.com/")
 
